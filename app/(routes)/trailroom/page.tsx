@@ -4,7 +4,6 @@ const TrailRoom = () => {
     return (
         <div className="p-9">
             <Heading title="Trail Room" description="Choose your perfect match."/>
-
         </div>
     )
 }
